@@ -4,6 +4,6 @@
 `/n a) O(m*n)`
 `/n b) O(m+n)`
 `/n c) O(m*log n)`
-```/n d) O(m*log(m+n))```
+`/n d) O(m*log(m+n))`
 
 
