@@ -6,4 +6,10 @@
 `c) O(m*log n)`<br />
 `d) O(m*log(m+n))`<br />
 
+'2. Which of the following cases does NOT exist while calculating time complexity?'</br>
+`a) Best case `<br />
+`b) Worst case`<br />
+`c) Null case`<br />
+`d) Average case`<br />
+
 
